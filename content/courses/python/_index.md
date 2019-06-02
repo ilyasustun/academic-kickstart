@@ -16,9 +16,10 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  python basics:
-    name: Overview
+  python:
+    name: Python
     weight: 1
+    
 ---
 
 ## Flexibility
